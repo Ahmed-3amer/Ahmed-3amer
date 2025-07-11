@@ -1,64 +1,12 @@
-<div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /> <br>
-
-</div>
-
----
-
-## 👋 Hi there, I'm Ahmed Amer
-
-I’m a **Frontend Developer** passionate about building modern, responsive websites and web apps.
-
-- 💻 I focus on **HTML5**, **CSS3**, **Bootstrap 5**, **JavaScript**, **React.js**, **Next.js**, **TypeScript**, and **Sass**.
-- 📚 I’ve completed a professional internship at **Information Technology Institute (ITI)**  
-  where I studied and built projects in the **Frontend and Cross-Platform Track**.
-- 🚀 I’m always learning new technologies to grow my skill set.
-- 📫 Feel free to reach out and connect!
-
----
-
-## 🚀 My Tech Stack
-
-<div align="center" style="max-width: 800px; margin: auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-<!-- My Tech Stack using skillicons.dev -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin: 10px;" />
-  <img src="https://skillicons.dev/icons?i=github" width="50" style="margin: 10px;" />
-</div>
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" />
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" />
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" />
-</div>
 
-<details>
-  <summary>More stats</summary>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-  </div>
-</details>
+<h1>👋 Hi there, I'm Ahmed Amer</h1>
 
----
+<h3>💻 Frontend Developer</h3>
 
-## 📬 Connect with Me
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
@@ -75,6 +23,43 @@ I’m a **Frontend Developer** passionate about building modern, responsive webs
   </a>
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=Ahmed-3amer&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
+
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=AhmedAmer&style=flat&color=orange&label=PROFILE+VIEWS)
+## 💡 About Me
+
+💻I’m a **Frontend Developer** passionate about building modern, responsive websites and web apps.
+
+   📚 I’ve completed a professional internship at **Information Technology Institute (ITI)**  
+    where I studied and built projects in the **Frontend and Cross-Platform Track**.
+
+   🚀 I’m always learning new technologies to grow my skill set.
+ 
+   📫 Feel free to reach out and connect!
+ 
+
+---
+
+## 🚀 My Tech Stack
+
+<div align="center" style="max-width: 800px; margin: auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin: 10px;" />
+</div>
+
+</div>
+
