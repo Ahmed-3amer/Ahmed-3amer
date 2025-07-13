@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,13 +6,32 @@
   </a>
 </h1>
 
-<h3>💻 Frontend Developer</h3>
+<table>
+  <tr>
+    <!-- Left -->
+    <td style="vertical-align: top; padding: 20px; min-width: 300px;">
+      <h2>💡 About Me</h2>
+      <p>
+        • 💻 I’m a <strong>Frontend Developer</strong> passionate about crafting modern, responsive websites.<br><br>
+        • 🎓 Skills: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>.<br><br>
+        • 🚀 Always learning new tools & frameworks.<br><br>
+        • 🤝 Open to collaboration on creative frontend & cross-platform projects.<br><br>
+        • 📫 Let's connect anytime!<br>
+      </p>
+    </td>
+    <!-- Right -->
+    <td style="vertical-align: top; padding: 20px; text-align: center;">
+      <img src="https://github.com/Ahmed-3amer/Ahmed-3amer/raw/main/assets/images/My-profile-image.png" alt="Ahmed Amer" width="300" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> <br>
 
 
 
-<p align="center">
+<div align="center">
+
+<p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
