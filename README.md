@@ -6,25 +6,9 @@
   </a>
 </h1>
 
-<table>
-  <tr>
-    <!-- Left -->
-    <td style="vertical-align: top; padding: 20px; min-width: 300px;">
-      <h2>💡 About Me</h2>
-      <p>
-        • 💻 I’m a <strong>Frontend Developer</strong> passionate about crafting modern, responsive websites.<br><br>
-        • 🎓 Skills: <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>JavaScript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>.<br><br>
-        • 🚀 Always learning new tools & frameworks.<br><br>
-        • 🤝 Open to collaboration on creative frontend & cross-platform projects.<br><br>
-        • 📫 Let's connect anytime!<br>
-      </p>
-    </td>
-    <!-- Right -->
-    <td style="vertical-align: top; padding: 20px; text-align: center;">
-      <img src="https://github.com/Ahmed-3amer/Ahmed-3amer/raw/main/assets/images/My-profile-image.png" alt="Ahmed Amer" width="300" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/Ahmed-3amer/Ahmed-3amer/raw/main/assets/images/My-profile-image.png" alt="Ahmed Amer" width="300" />
+</p>
 
 
 
@@ -32,16 +16,16 @@
 <div align="center">
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-amer-064233202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR.EMAIL@gmail.com" target="_blank">
+  <a href="mailto:ahmedammer777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/YOURWHATSAPPNUMBER" target="_blank">
+  <a href="https://wa.me/+201550859866" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://YOURPORTFOLIO.com" target="_blank">
+  <a href="https://ahmed-3amer.github.io/my-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google%20Chrome&logoColor=white" />
   </a>
 </p>
@@ -54,14 +38,11 @@
 
 ## 💡 About Me
 
-💻I’m a **Frontend Developer** passionate about building modern, responsive websites and web apps.
+💻 I’m a **Frontend Developer** focused on building modern, responsive, and user-friendly web apps.  
+✨ I love turning ideas into real products with clean code and smart design.  
+🚀 I’m always learning new tools and technologies to stay up-to-date.  
+📫 Feel free to reach out and connect!
 
-   📚 I’ve completed a professional internship at **Information Technology Institute (ITI)**  
-    where I studied and built projects in the **Frontend and Cross-Platform Track**.
-
-   🚀 I’m always learning new technologies to grow my skill set.
- 
-   📫 Feel free to reach out and connect!
  
 
 ---
@@ -85,4 +66,6 @@
 </div>
 
 </div>
+
+
 
